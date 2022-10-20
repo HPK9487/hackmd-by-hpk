@@ -1,4 +1,7 @@
 # RPG遊戲細則
+
+[![hackmd-github-sync-badge](https://hackmd.io/mey2YShKQfCefDmy4zd5Uw/badge)](https://hackmd.io/mey2YShKQfCefDmy4zd5Uw)
+
 :::success
 :alarm_clock: 要記得寫，有時限（by.總召）
 :::
