@@ -1,4 +1,7 @@
 # DR.Alan SU的講座
+
+[![hackmd-github-sync-badge](https://hackmd.io/ZxHLtBpNRbeeQxo5uCS9vA/badge)](https://hackmd.io/ZxHLtBpNRbeeQxo5uCS9vA)
+
 在2022的四月我有幸申請到了computex的參觀證
 5/20我到了computex來偏向企業的展覽準備大開眼界
 2022的主題是人工智慧
